@@ -15,5 +15,6 @@ Soy ingeniero de soporte técnico especializado en plataformas como Azure y Goog
 Seguir aprendiendo sobre tecnologías cloud, colaborar en proyectos open source y apoyar a otros en la resolución de problemas técnicos.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonyRider&show_icons=true&theme=default)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jonathan-alberto-gonzalez-alonzo-1847a4105)
 
