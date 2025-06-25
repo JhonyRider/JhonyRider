@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Jonathan
 
-<!--
-**JhonyRider/JhonyRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero de soporte técnico especializado en plataformas como Azure y Google Workspace. Me apasionan las tecnologías cloud, la automatización y la mejora continua. Actualmente trabajo como Azure Support Engineer II y busco seguir creciendo en el mundo del desarrollo y la nube.
 
-Here are some ideas to get you started:
+## 💻 Habilidades
+- **Plataformas**: Windows, macOS, Android, iOS
+- **Cloud**: Azure App Services, ARM Templates, Azure DevOps
+- **Tecnologías**: HTML, APIs, SSO, escritorio remoto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certificaciones
+- Microsoft Certified: Azure Fundamentals (2024)
+- Google Technical Support Fundamentals (2023)
+
+## 🎯 Objetivo profesional
+Seguir aprendiendo sobre tecnologías cloud, colaborar en proyectos open source y apoyar a otros en la resolución de problemas técnicos.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonyRider&show_icons=true&theme=default)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jonathan-alberto-gonzalez-alonzo-1847a4105)
+
